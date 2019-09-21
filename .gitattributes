@@ -1,5 +1,5 @@
-*.java filter=lfs diff=lfs merge=lfs -text
-*. filter=lfs diff=lfs merge=lfs -text
+finalproject/target/SpringBootHibernateExample/WEB-INF/lib/*
+
 *.classpath filter=lfs diff=lfs merge=lfs -text
 *.project filter=lfs diff=lfs merge=lfs -text
 *.jsdtscope filter=lfs diff=lfs merge=lfs -text
@@ -8,6 +8,7 @@
 *.xml filter=lfs diff=lfs merge=lfs -text
 *.container filter=lfs diff=lfs merge=lfs -text
 *.name filter=lfs diff=lfs merge=lfs -text
+*.java filter=lfs diff=lfs merge=lfs -text
 *.properties filter=lfs diff=lfs merge=lfs -text
 *.css filter=lfs diff=lfs merge=lfs -text
 *.eot filter=lfs diff=lfs merge=lfs -text
